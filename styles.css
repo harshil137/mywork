@@ -206,4 +206,10 @@ button {
         padding: 100px;
     }
 }
+@media (max-width: 600px) {
+    /* Adjust styles for mobile screens */
+    body {
+        font-size: 14px;
+    }
+}
 
